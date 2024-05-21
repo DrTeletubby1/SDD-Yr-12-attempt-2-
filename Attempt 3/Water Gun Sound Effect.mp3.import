@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Water Gun Sound Effect.mp3-aa6eb8723dc7c0fb3885036ca0a132cc.mp3str"
+
+[deps]
+
+source_file="res://Water Gun Sound Effect.mp3"
+dest_files=[ "res://.import/Water Gun Sound Effect.mp3-aa6eb8723dc7c0fb3885036ca0a132cc.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
